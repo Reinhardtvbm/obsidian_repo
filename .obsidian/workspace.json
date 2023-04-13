@@ -11,8 +11,12 @@
             "id": "56fe7b64b65cc640",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Modeling In The Time Domain.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -78,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "fa97ebef175a2c71",
@@ -153,18 +156,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "acbbb088ca3f7f5a",
   "lastOpenFiles": [
+    "Pasted image 20230414005508.png",
+    "Pasted image 20230414005358.png",
+    "Pasted image 20230414005339.png",
+    "Modeling In The Time Domain.md",
+    "Memory Hierarchy.md",
+    "Computer Architecture and Organisation.md",
     "Pasted image 20230413150018.png",
     "Pasted image 20230413145957.png",
     "Pasted image 20230413145919.png",
     "Memory_Hierarchy.pdf",
-    "Pasted image 20230413144428.png",
-    "Computer Architecture and Organisation.md",
-    "Memory Hierarchy.md",
-    "Modeling In The Time Domain.md"
+    "Pasted image 20230413144428.png"
   ]
 }
