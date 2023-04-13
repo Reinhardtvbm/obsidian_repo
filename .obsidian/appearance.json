@@ -1,4 +1,7 @@
 {
-  "baseFontSize": 11,
-  "accentColor": ""
+  "baseFontSize": 16,
+  "accentColor": "",
+  "cssTheme": "Things",
+  "translucency": false,
+  "interfaceFontFamily": ""
 }
