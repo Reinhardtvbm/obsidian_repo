@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test_add.md",
+                "file": "Computer Architecture and Organisation.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test_add.md",
+                "file": "Computer Architecture and Organisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test_add.md",
+                "file": "Computer Architecture and Organisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test_add.md"
+                "file": "Computer Architecture and Organisation.md"
               }
             }
           }
@@ -157,7 +157,7 @@
   },
   "active": "acbbb088ca3f7f5a",
   "lastOpenFiles": [
-    "test_add.md",
-    "Modeling In The Time Domain.md"
+    "Modeling In The Time Domain.md",
+    "Computer Architecture and Organisation.md"
   ]
 }
